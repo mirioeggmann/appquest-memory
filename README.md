@@ -12,8 +12,8 @@ AppQuest Memory is a android application developed by [Mirio Eggmann](https://gi
 |   |  |
 |---|---|
 | Application Requirements | http://appquest.hsr.ch/2016/memory |
-| Minimum API Level | API level 23 (Marshmallow) |
-| Development Environment | Android Studio |
+| Minimum API Level | [API level 23 (Marshmallow)](https://developer.android.com/about/versions/marshmallow/android-6.0.html) |
+| Development Environment | [Android Studio](https://developer.android.com/studio/index.html) |
 
 ### App Quest 2016
 
