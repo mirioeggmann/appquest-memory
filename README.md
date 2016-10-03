@@ -5,7 +5,7 @@
 
 ## About
 
-AppQuest Memory is the 2. application for the [App Quest 2016](http://appquest.hsr.ch/) Treasure Hunt. The application must be able to take pictures, scan the QR-codes and store them in pairs. While the Treasure Hunt the goal will be to find as many pairs as possible. Finally it must be possible to upload all the bundled pair QR-codes strings to the AppQuest LogBook.
+AppQuest Memory is the 2. application for the [App Quest 2016](http://appquest.hsr.ch/) Treasure Hunt. The application must be able to take pictures, scan the QR-codes and store them in pairs. While the Treasure Hunt the goal will be to find as many pairs as possible. Finally it must be possible to upload all the bundled QR-code strings to the AppQuest LogBook.
 
 ### General
 |   |  |
@@ -79,7 +79,7 @@ rv.setLayoutManager(gridLayoutManager);
 
 ---
 
-Logbook format
+AppQuest LogBook format
 ```
 {
   "task": "Memory",
