@@ -1,5 +1,7 @@
 # AppQuest Memory
 
+[![Build Status](https://travis-ci.com/luvirx/appquest-memory.svg?token=DCE1mdUKpiTStoczqzxn&branch=master)](https://travis-ci.com/luvirx/appquest-memory)
+
 ![PostFinance AG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PostFinance_Logo.svg/langfr-330px-PostFinance_Logo.svg.png)
 ![HSR](http://appquest.hsr.ch/images/fho.png)
 
