@@ -14,7 +14,7 @@ AppQuest Memory is the 2. application for the [App Quest 2016](http://appquest.h
 | Minimum API Level | [API level 23 (Marshmallow)](https://developer.android.com/about/versions/marshmallow/android-6.0.html) |
 | Development Environment | [Android Studio](https://developer.android.com/studio/index.html) |
 
-### Example with a QR code pair
+### Example
 ![AppQuest Memory App](http://appquest.hsr.ch/2016/wp-content/uploads/Screenshot_20160513-111219-254x300.png)
 ![Android Bot 1 QR Code](http://appquest.hsr.ch/2016/wp-content/uploads/IMG_20160811_141119-300x224.jpg)
 ![Android Bot 2 QR Code](http://appquest.hsr.ch/2016/wp-content/uploads/IMG_20160811_141145-300x224.jpg)
