@@ -164,4 +164,4 @@ private void log(String qrCode) {
 ```
 
 ## License
-[MIT License](https://github.com/luvirx/appquest-memory/blob/master/README.md)
+[MIT License](https://github.com/luvirx/appquest-memory/blob/master/LICENSE)
