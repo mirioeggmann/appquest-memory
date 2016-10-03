@@ -73,7 +73,7 @@ public class MyCaptureActivity extends CaptureActivity { }
 RecyclerView with 2 columns
 ```java
 RecyclerView rv = (RecyclerView)findViewById(R.id.recyclerView);
-GridLayoutManager gridLayoutManager = new GridLayoutManager(this /* the activity */, 2);
+GridLayoutManager gridLayoutManager = new GridLayoutManager(this, 2);
 rv.setLayoutManager(gridLayoutManager);
 ```
 
@@ -99,6 +99,7 @@ AppQuest LogBook format
 | Coach | [Rafael Krucker](mailto:rkrucker@hsr.ch) |
 | Organizer | [Mirko Stocker](https://github.com/misto) |
 | Operating System | Android |
+| Required Apps | [AppQuest Logbuch](http://appquest.hsr.ch/logbuch.apk), [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)|
 
 ### Apps
 - [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector) Deadline
