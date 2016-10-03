@@ -5,7 +5,7 @@
 
 ## About
 
-AppQuest Memory is a android application developed by [Mirio Eggmann](https://github.com/luvirx) & [Timon Borter](https://github.com/bbortt) for the [App Quest 2016](http://appquest.hsr.ch/).
+AppQuest Memory is the 2. application for the [App Quest 2016](http://appquest.hsr.ch/) Treasure Hunt. The application must be able to take pictures, scan the QR-codes and store them in pairs. While the Treasure Hunt the goal will be to find as many pairs as possible. Finally it must be possible to upload all the bundled pair QR-codes strings to the AppQuest LogBook.
 
 ### General
 |   |  |
@@ -14,7 +14,7 @@ AppQuest Memory is a android application developed by [Mirio Eggmann](https://gi
 | Minimum API Level | [API level 23 (Marshmallow)](https://developer.android.com/about/versions/marshmallow/android-6.0.html) |
 | Development Environment | [Android Studio](https://developer.android.com/studio/index.html) |
 
-### Example QR Code Pair
+### Example with a QR code pair
 ![AppQuest Memory App](http://appquest.hsr.ch/2016/wp-content/uploads/Screenshot_20160513-111219-254x300.png)
 ![Android Bot 1 QR Code](http://appquest.hsr.ch/2016/wp-content/uploads/IMG_20160811_141119-300x224.jpg)
 ![Android Bot 2 QR Code](http://appquest.hsr.ch/2016/wp-content/uploads/IMG_20160811_141145-300x224.jpg)
