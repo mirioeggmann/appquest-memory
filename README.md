@@ -9,9 +9,11 @@
 
 AppQuest Memory is a android application developed by [Mirio Eggmann](https://github.com/luvirx) & [Timon Borter](https://github.com/bbortt) for the [App Quest 2016](http://appquest.hsr.ch/).
 
-Developped for Android Marshmallow (API level 23)
-
-Requirements for the application: http://appquest.hsr.ch/2016/memory
+|   |  |
+|---|---|
+| Application Requirements | http://appquest.hsr.ch/2016/memory |
+| Minimum API Level | API level 23 (Marshmallow) |
+| Development Environment | Android Studio |
 
 ### App Quest 2016
 
@@ -23,10 +25,11 @@ Requirements for the application: http://appquest.hsr.ch/2016/memory
 | Team members | [Mirio Eggmann](https://github.com/luvirx), [Timon Borter](https://github.com/bbortt) |
 | Employer | [PostFinance AG](https://www.postfinance.ch/) |
 | Coach | [Rafael Krucker](mailto:rkrucker@hsr.ch) |
+| Organizer | [Mirko Stocker](https://github.com/misto) |
 | Operating System | Android |
 
 #### Apps
-- [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector)
+- [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector) 
 - [x] 2. App [Memory](https://github.com/luvirx/appquest-memory)
 - [ ] 3. App [Treasure Map]()
 - [ ] 4. App [Pedometer]()
