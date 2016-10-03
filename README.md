@@ -87,6 +87,30 @@ AppQuest Logbuch format
 }
 ```
 
+## App Quest 2016
+
+### General
+
+|   |  |
+|---|---|
+| Team | MeIsTeam |
+| Team members | [Mirio Eggmann](https://github.com/luvirx), [Timon Borter](https://github.com/bbortt) |
+| Employer | [PostFinance AG](https://www.postfinance.ch/) |
+| Coach | [Rafael Krucker](mailto:rkrucker@hsr.ch) |
+| Organizer | [Mirko Stocker](https://github.com/misto) |
+| Operating System | Android |
+| Required Apps | [AppQuest Logbuch](http://appquest.hsr.ch/logbuch.apk), [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)|
+| Logbuch Test Account | user: HSR-TEST pw: 482ae9 |
+
+### Apps
+- [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector) (deadline: none)
+- [x] 2. App [Memory](https://github.com/luvirx/appquest-memory) (deadline: 8.10.2016)
+- [ ] 3. App [Treasure Map]() (deadline: 29.10.2016)
+- [ ] 4. App [Pedometer]() (deadline: 19.11.2016)
+- [ ] 5. App [Pixel Painter]() (deadline: none)
+
+### Given code snippets
+
 [ZXing Barcode Scanner](https://gist.github.com/misto/3938337#file-gistfile1-java)
 ```java
 private static final int SCAN_QR_CODE_REQUEST_CODE = 0;
@@ -119,6 +143,8 @@ public void onActivityResult(int requestCode, int resultCode, Intent intent) {
 }
 ```
 
+---
+
 [Logbuch](https://gist.github.com/misto/3938488#file-gistfile1-java)
 ```java
 private void log(String qrCode) {
@@ -137,47 +163,5 @@ private void log(String qrCode) {
 }
 ```
 
-## App Quest 2016
-
-### General
-
-|   |  |
-|---|---|
-| Team | MeIsTeam |
-| Team members | [Mirio Eggmann](https://github.com/luvirx), [Timon Borter](https://github.com/bbortt) |
-| Employer | [PostFinance AG](https://www.postfinance.ch/) |
-| Coach | [Rafael Krucker](mailto:rkrucker@hsr.ch) |
-| Organizer | [Mirko Stocker](https://github.com/misto) |
-| Operating System | Android |
-| Required Apps | [AppQuest Logbuch](http://appquest.hsr.ch/logbuch.apk), [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android)|
-| Logbuch Test Account | user: HSR-TEST pw: 482ae9 |
-
-### Apps
-- [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector) (deadline: none)
-- [x] 2. App [Memory](https://github.com/luvirx/appquest-memory) (deadline: 8.10.2016)
-- [ ] 3. App [Treasure Map]() (deadline: 29.10.2016)
-- [ ] 4. App [Pedometer]() (deadline: 19.11.2016)
-- [ ] 5. App [Pixel Painter]() (deadline: none)
-
 ## License
-MIT License
-
-Copyright (c) 2016 Mirio Eggmann, Timon Borter
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+[MIT License](https://github.com/luvirx/appquest-memory/blob/master/README.md)
