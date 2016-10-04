@@ -1,6 +1,6 @@
 # AppQuest Memory
 
-[![Build Status](https://travis-ci.com/luvirx/appquest-memory.svg?token=DCE1mdUKpiTStoczqzxn&branch=master)](https://travis-ci.com/luvirx/appquest-memory)
+[![Build Status](https://travis-ci.com/mirioeggmann/appquest-memory.svg?token=DCE1mdUKpiTStoczqzxn&branch=master)](https://travis-ci.com/mirioeggmann/appquest-memory)
 
 ![PostFinance AG](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PostFinance_Logo.svg/langfr-330px-PostFinance_Logo.svg.png)
 ![HSR](http://appquest.hsr.ch/images/fho.png)
@@ -96,7 +96,7 @@ AppQuest Logbuch format
 |   |  |
 |---|---|
 | Team | MeIsTeam |
-| Team members | [Mirio Eggmann](https://github.com/luvirx), [Timon Borter](https://github.com/bbortt) |
+| Team members | [Mirio Eggmann](https://github.com/mirioeggmann), [Timon Borter](https://github.com/bbortt) |
 | Employer | [PostFinance AG](https://www.postfinance.ch/) |
 | Coach | [Rafael Krucker](mailto:rkrucker@hsr.ch) |
 | Organizer | [Mirko Stocker](https://github.com/misto) |
@@ -105,8 +105,8 @@ AppQuest Logbuch format
 | Logbuch Test Account | user: HSR-TEST pw: 482ae9 |
 
 ### Apps
-- [x] 1. App [Metal Detector](https://github.com/luvirx/appquest-metal-detector) (deadline: none)
-- [x] 2. App [Memory](https://github.com/luvirx/appquest-memory) (deadline: 8.10.2016)
+- [x] 1. App [Metal Detector](https://github.com/mirioeggmann/appquest-metal-detector) (deadline: none)
+- [x] 2. App [Memory](https://github.com/mirioeggmann/appquest-memory) (deadline: 8.10.2016)
 - [ ] 3. App [Treasure Map]() (deadline: 29.10.2016)
 - [ ] 4. App [Pedometer]() (deadline: 19.11.2016)
 - [ ] 5. App [Pixel Painter]() (deadline: none)
@@ -166,4 +166,4 @@ private void log(String qrCode) {
 ```
 
 ## License
-[MIT License](https://github.com/luvirx/appquest-memory/blob/master/LICENSE)
+[MIT License](https://github.com/mirioeggmann/appquest-memory/blob/master/LICENSE)
