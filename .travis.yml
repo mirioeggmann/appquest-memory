@@ -1,3 +1,4 @@
+#travis for android is still in beta...
 language: android
 jdk: oraclejdk8
 sudo: false
@@ -9,7 +10,7 @@ android:
     - platform-tools
     - tools
     - build-tools-24.0.2
-    - android-24
+    - android-23
     - extra-android-m2repository
 
 before_install:
