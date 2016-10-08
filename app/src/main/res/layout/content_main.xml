@@ -12,14 +12,6 @@
     tools:context="ch.jmelab.appquest_memory.MemoryActivity"
     tools:showIn="@layout/activity_memory">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Scan Memory"
-        android:id="@+id/scanmemory"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true" />
-
     <android.support.v7.widget.RecyclerView
         android:id="@+id/memory_recycler_view"
         android:scrollbars="vertical"

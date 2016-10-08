@@ -4,13 +4,8 @@ package ch.jmelab.appquest_memory;
  * Simple class for a memory card.
  */
 public class MemoryCard {
-    private String mPath;
-    private String mCode;
-
-    public MemoryCard(String path, String code) {
-        this.mPath = path;
-        this.mCode = code;
-    }
+    private String mPath = "";
+    private String mCode = "";
 
     public MemoryCard() {}
 
