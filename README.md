@@ -1,7 +1,5 @@
 # AppQuest Memory
 
-[![Build Status](https://travis-ci.com/mirioeggmann/appquest-memory.svg?token=DCE1mdUKpiTStoczqzxn&branch=master)](https://travis-ci.com/mirioeggmann/appquest-memory)
-
 ![HSR](http://appquest.hsr.ch/images/fho.png)
 
 ## About
